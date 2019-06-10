@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fpr",
+				"fprime"
+			],
+			[
+				"in",
+				"initialGuess"
+			],
+			[
+				"bbar",
+				"\\bbar{}                                           \tlocal"
+			],
+			[
+				"footnote",
+				"\\footnote                                         \ttex"
+			],
+			[
+				"mel",
+				"\\mel{expression1}{expression2}{expression3}       \tphysics"
+			],
+			[
+				"pdv",
+				"\\pdv{f}{x}{y}                                     \tphysics"
+			],
+			[
+				"div",
+				"\\div                                              \tphysics"
+			],
+			[
+				"braket",
+				"\\braket{expression1}{expression2}                 \tphysics"
+			],
+			[
+				"eval",
+				"\\eval{expression}_{limit1}^{limit2}               \tphysics"
+			],
+			[
+				"sqrt",
+				"\\sqrt{arg}                                        \tlatex-document"
+			],
+			[
+				"usepackage",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usecolortheme",
+				"\\usecolortheme{name list}                         \tclass-beamer"
+			],
+			[
+				"num",
+				"\\num{number}                                      \tsiunitx"
+			],
+			[
+				"include",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"end",
+				"\\end{}                                            \tlatex-document"
+			],
+			[
+				"comm",
+				"\\comm{expression1}{expression2}                   \tphysics"
+			],
+			[
+				"SI",
+				"\\SI{value}{unit commands}                         \tsiunitx"
+			],
+			[
+				"ket",
+				"\\ket{expression}                                  \tphysics"
+			],
+			[
+				"color",
+				"\\color{name}                                      \tgraphicx"
+			],
+			[
+				"includ",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"abs",
+				"\\abs{expression}                                  \tphysics"
+			],
+			[
+				"break",
+				"\\linebreak[number]                                \tlatex-document"
+			],
+			[
+				"newcomm",
+				"\\newcommand{cmd}{def}                             \tlatex-document"
+			],
+			[
+				"vb",
+				"\\vb{expression}                                   \tphysics"
+			],
+			[
+				"mu",
+				"\\mu                                               \tlatex-mathsymbols"
+			],
+			[
+				"inf",
+				"\\infty                                            \tlatex-mathsymbols"
+			],
+			[
+				"CC",
+				"\\CC{}                                             \tlocal"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/practice/hello",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/practice/least_squares.C",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/test.py",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/BNLNeutrino.sublime-project",
+		"/usr/local/root/compile/include/RtypesCore.h",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/practice/hello.C",
+		"/Users/keesbenkendorfer/Documents/ROOT test/hello.C",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/git/BNLNeutrino/practice/leastsquares.C",
+		"/Users/keesbenkendorfer/Documents/ROOT test/mult.C",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Code/test.py",
+		"/Users/keesbenkendorfer/Documents/ROOT test/multimult.C",
+		"/Users/keesbenkendorfer/Documents/ROOT test/minimize.C",
+		"/Users/keesbenkendorfer/Documents/Work/BNL 2019/Weekly Reports/Week 01.txt",
+		"/Users/keesbenkendorfer/Documents/Research/Neutrino Physics/Solar Neutrino Spectrum/bs2005agsopneutrinoflux.dat",
+		"/Applications/root_v6.16.00/tutorials/pyroot/demo.py",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/Final Exam/P366_Final.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/Cosmic Ray Muons Private/Report/Muons_Report.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/Cosmic Ray Muons Private/Report/Muons_Report.log",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/Proof of Photons Private/Report/Proof_of_Photons_Report.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/HW13/M311_HW13.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 342 Quantum 1/HW10/P342_HW10.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/HW12/M311_HW12.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW11/P366_HW11.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/HW11/M311_HW11.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 342 Quantum 1/midterm_3_take_home/P342_midterm_3_take_home.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW11/P366_HW10.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/High-Temperature Superconductor Private/Report/High_Temp_Superconductor_Report.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/Exam 2 Metacognitive Redo/M311_exam_2_redo.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW10/P366_HW10.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/HW10/M311_HW10.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW9/P366_HW9.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW9/P366_HW9.log",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 342 Quantum 1/HW08/P342_HW08.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/Optical Tweezers/Presentation/Benkendorfer_optical_tweezers.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 332 J-Lab 2/Optical Tweezers/Presentation/malthouse_neutralatomtraps.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 366 Particles/HW8/P366_HW8.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/PHYS 342 Quantum 1/HW07/P342_HW07.tex",
+		"/Users/keesbenkendorfer/Documents/Classes/MATH 311 Complex Analysis/Exam 2 Notes Sheet/M311_Exam_2_Notes.tex",
+		"/Users/keesbenkendorfer/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/keesbenkendorfer/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/Users/keesbenkendorfer/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/Users/keesbenkendorfer/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-build"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "BNLNeutrino.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
